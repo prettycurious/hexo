@@ -91,6 +91,3 @@ Also, we welcome PR or issue to [official-plugins](https://github.com/hexojs).
 
 <a href="https://www.jetbrains.com/"><img src="/.github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
 
-## License
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhexojs%2Fhexo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhexojs%2Fhexo?ref=badge_large)
